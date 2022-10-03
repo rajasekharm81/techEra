@@ -1,0 +1,29 @@
+.itemDetailsMainContainer {
+  display: flex;
+  justify-content: center;
+  width: 100vw;
+  height: 87vh;
+  margin-top: 5vh;
+}
+
+.itemsDetailsContainer {
+  display: flex;
+  width: 80%;
+  height: 80%;
+  box-shadow: 0px 0px 22px 3px silver;
+  border-radius: 15px;
+}
+
+.imageContainer {
+  height: 100%;
+}
+
+.techImage {
+  display: flex;
+  height: 100%;
+}
+
+.contentContaineer {
+  margin-left: 2vw;
+  width: 100%;
+}

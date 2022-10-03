@@ -1,0 +1,20 @@
+.techItemContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  background-color: transparent;
+  border: none;
+}
+
+.linkContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  text-decoration: none;
+  color: black;
+  width: 12vw;
+  margin: 2vh;
+  height: 12vh;
+}
